@@ -1,14 +1,13 @@
 // app/layout.tsx
-
-const Layout = ({ children }) => {
+export default function layout() {
   return (
-    <html lang="en">
+    
+    <html>
       <body>
-        <h1>Hello, World!</h1>
-        {children}
+        <h1>Hellow Ruthless World
+        </h1>
       </body>
     </html>
+       
   );
-};
-
-export default Layout;
+}
