@@ -4,7 +4,7 @@ export default function layout() {
     
     <html>
       <body>
-        <h1>Hellow Ruthless World
+        <h1>Hellow Ruthless World!!!
         </h1>
       </body>
     </html>
